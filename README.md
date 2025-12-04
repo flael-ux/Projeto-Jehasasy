@@ -1,4 +1,4 @@
 # Projeto "Jehasasy"
-Jogo de processo seletivo WASD
+Prototipo jogo seletivo do processo seletivo WASD
 
 Essa é mais uma alteração
